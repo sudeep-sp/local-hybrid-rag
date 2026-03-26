@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+lang_integration_componet
+langchain_md
+langgraph_md
+learn_md
+
+.env
+
+.graph_indexed
+.graph_progress.json
+CLAUDE.md
+chroma_db
+
+.vscode
